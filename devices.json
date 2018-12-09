@@ -1,0 +1,18 @@
+[
+	{
+		"name":"Moto G",
+		"brand":"Motorola",
+		"codename":"falcon",
+		"maintainer":"Renan Queiroz",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Moto G 2014",
+		"brand":"Motorola",
+		"codename":"titan",
+		"maintainer":"Renan Queiroz",
+		"maintainer_url":"",
+		"xda_thread":""
+	}
+]
