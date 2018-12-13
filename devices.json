@@ -22,5 +22,13 @@
 		"maintainer":"Sandro",
 		"maintainer_url":"",
 		"xda_thread":""
+	},
+	{
+		"name":"Redmi Note 4/4X",
+		"brand":"Xiaomi",
+		"codename":"mido",
+		"maintainer":"unknow",
+		"maintainer_url":"",
+		"xda_thread":""
 	}
 ]
