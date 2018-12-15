@@ -12,8 +12,8 @@
 		"brand":"Motorola",
 		"codename":"titan",
 		"maintainer":"Renan Queiroz",
-		"maintainer_url":"",
-		"xda_thread":""
+		"maintainer_url":"https://forum.xda-developers.com",
+		"xda_thread":"https://forum.xda-developers.com"
 	},
 	{
 		"name":"Moto G5S Plus",
@@ -28,6 +28,78 @@
 		"brand":"Xiaomi",
 		"codename":"mido",
 		"maintainer":"unknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"P2",
+		"brand":"Lenovo",
+		"codename":"kuntao",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Poco F1",
+		"brand":"Xiaomi",
+		"codename":"beryllium",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Zenfone Max Pro M1",
+		"brand":"Asus",
+		"codename":"X00TD",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Nexus 6P",
+		"brand":"Google",
+		"codename":"angler",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Le 2",
+		"brand":"LeEco",
+		"codename":"s2",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Mi A2",
+		"brand":"Xiaomi",
+		"codename":"jasmine",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Honor View 10",
+		"brand":"Huawei",
+		"codename":"berkeley",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"Z2 Plus",
+		"brand":"ZUK",
+		"codename":"z2_plus",
+		"maintainer":"hedontknow",
+		"maintainer_url":"",
+		"xda_thread":""
+	},
+	{
+		"name":"3/3T",
+		"brand":"OnePlus",
+		"codename":"oneplus3",
+		"maintainer":"hedontknow",
 		"maintainer_url":"",
 		"xda_thread":""
 	}
